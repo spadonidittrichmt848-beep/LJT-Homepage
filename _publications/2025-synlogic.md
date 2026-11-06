@@ -1,0 +1,13 @@
+---
+title: "SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond"
+collection: publications
+category: preprints
+permalink: /publication/synlogic
+excerpt: 'Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond'
+date: 2025
+venue: 'Arxiv'
+paperurl: ''
+citation: '<b>Junteng Liu</b>, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. (2025). &quot;SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond.&quot; <i>Arxiv</i>.'
+---
+
+Junteng Liu is the first author of this paper. Code is available on GitHub.
